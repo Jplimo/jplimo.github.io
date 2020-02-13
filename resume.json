@@ -40,7 +40,7 @@
     {
       "organization": "Relay For Life",
       "position": "Caregiver",
-      "website": "http://coderdojo.com/",
+      "website": "http://relayforlife.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Global movement of free coding clubs for young people.",
@@ -58,8 +58,8 @@
       "endDate": "2014-01-01",
       "gpa": "4.0",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "EK125 - Introduction to Programming: Matlab and C",
+        "ME357 - Introduction to CAD and Machine Components"
       ]
     }
   ],
